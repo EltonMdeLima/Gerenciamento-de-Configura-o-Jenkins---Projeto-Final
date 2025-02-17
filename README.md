@@ -1,0 +1,2 @@
+# Gerenciamento-de-Configura-o-Jenkins---Projeto-Final
+Este repositório contém o Trabalho de Conclusão de Disciplina (TCD) da matéria de Gerenciamento de Configuração, com foco na ferramenta Jenkins. O projeto abrange a instalação, configuração e utilização do Jenkins para automação de pipelines de CI/CD, destacando seus principais recursos e benefícios na gestão de configurações e entrega contínua.
